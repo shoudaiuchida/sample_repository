@@ -1,6 +1,5 @@
 # sample_repository_one
 
-
 ## Updates
 
 - Update 1: バグ修正
